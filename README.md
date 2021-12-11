@@ -1,5 +1,4 @@
 # SpotifyAccountCreator
- Creates Spotify accounts for you.
 
 # Installation
 ```
